@@ -2,7 +2,7 @@
 > Input prompt with max length for [inquirer](https://www.npmjs.com/package/inquirer)
 
 > [![tests](https://img.shields.io/travis/jwarby/inquirer-maxlength-input-prompt.svg?label=tests&style=flat)](https://travis-ci.org/jwarby/inquirer-maxlength-input-prompt)
-> ![test coverage](https://img.shields.io/coveralls/jwarby/inquirer-maxlength-input-prompt.svg?label=test coverage&style=flat)
+> ![test coverage](https://img.shields.io/coveralls/jwarby/inquirer-maxlength-input-prompt.svg?label=test%20coverage&style=flat)
 > [![npm published version](https://img.shields.io/npm/v/inquirer-maxlength-input-prompt.svg?style=flat)](https://www.npmjs.com/package/inquirer-maxlength-input-prompt)
 > [![require node version](https://img.shields.io/node/v/inquirer-maxlength-input-prompt.svg?style=flat)](https://nodejs.org/en/download/releases/)
 > ![license](https://img.shields.io/github/license/jwarby/inquirer-maxlength-input-prompt.svg?style=flat)
