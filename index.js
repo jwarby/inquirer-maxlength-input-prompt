@@ -10,7 +10,7 @@ class MaxLengthInputPrompt extends InputPrompt {
     super(...args)
 
     if (!this.opt.maxLength) {
-      throw new Error('You must provide a `maxLength` parameter')
+      this.throwParamError('maxLength')
     }
 
     this.opt.validate = this.createValidator(this.opt.validate)
