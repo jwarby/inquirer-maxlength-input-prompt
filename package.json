@@ -1,6 +1,6 @@
 {
   "name": "inquirer-maxlength-input-prompt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Input prompt with max length for inquirer",
   "main": "index.js",
   "repository": "https://github.com/jwarby/inquirer-maxlength-input-prompt",
